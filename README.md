@@ -1,2 +1,5 @@
-# e-orca
-Technical information about e-orca velomobile
+# e-ORCA
+
+Technical information about e-ORCA velomobile.
+
+This velomobile was developped by Flevobike in Netherland.
